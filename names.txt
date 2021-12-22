@@ -1,4 +1,4 @@
 sreekanth added some text.
 Let me made one more change.
 one more commit
-about stash command
+about stash command explanation
